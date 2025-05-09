@@ -9,7 +9,7 @@ const Login = () => {
   const [error, setError] = useState("");
   const router = useRouter();
 
-  const correctPassword = "xurora";
+  const correctPassword = "Chitaa11";
 
   const handleLogin = () => {
     if (password === correctPassword) {
