@@ -133,7 +133,7 @@ h6 {
     --chart-4: 280 65% 60%;
     --chart-5: 340 75% 55%;
     --navbar: var(--theme) 90% 20%;
-    --buttonnavbar: var(--theme) 100% 15.9%;
+    --buttonnavbar: var(--theme) 100% 0%;
     --ann: var(--theme) 100% 20%;
     --annt: 0 0% 100%;
     --sidebar-background: 240 5.9% 10%;
