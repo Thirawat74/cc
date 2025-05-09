@@ -118,10 +118,10 @@ h6 {
     --primary-foreground: 0 0% 0%;
     --secondary: var(--theme) 100% 10%;
     --secondary-foreground: var(--theme) 95% 70%;
-    --muted: 0 0% 15%;
+    --muted: 0 0% 0%;
     --muted-foreground: 240 5% 64.9%;
     --accent: var(--theme) 6.5% 15.1%;
-    --accent-foreground: 0 0% 98%;
+    --accent-foreground: 0 0% 0%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 85.7% 97.3%;
     --border: var(--theme) 10% 15.9%;
