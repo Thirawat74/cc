@@ -114,8 +114,8 @@ h6 {
     --card-hover: var(--theme) 100% 10%;
     --popover: 0 0% 9%;
     --popover-foreground: 0 0% 95%;
-    --primary: var(--theme) 10% 100%;
-    --primary-foreground: 0 0% 0%;
+    --primary: var(--theme) 10% 0%;
+    --primary-foreground: 0 0% 100%;
     --secondary: var(--theme) 100% 10%;
     --secondary-foreground: var(--theme) 95% 70%;
     --muted: 0 0% 0%;
